@@ -174,7 +174,7 @@
         }
       },
       "chat": {
-        "label": "通讯软件帐号<span class='required'>*</span>",
+        "label": "通讯软件帐号",
         "option": {
           "wechat": "微信",
           "line": "Line",
