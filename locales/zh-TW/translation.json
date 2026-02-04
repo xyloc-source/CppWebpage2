@@ -174,7 +174,7 @@
         }
       },
       "chat": {
-        "label": "通訊軟體帳號<span class='required'>*</span>",
+        "label": "通訊軟體帳號",
         "option": {
           "wechat": "微信",
           "line": "Line",
